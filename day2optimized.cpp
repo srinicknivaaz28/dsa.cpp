@@ -1,6 +1,3 @@
-
-
-
 #include<bits/stdc++.h>
 using namespace std;
 int secondSmallest(int arr[],int n)
